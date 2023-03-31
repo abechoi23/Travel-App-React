@@ -1,0 +1,27 @@
+.signupForm {
+    margin-top: 64px;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+.css-lll1vm-MuiButtonBase-root-MuiButton-root {
+    color: white !important;
+    background-color: rgb(4, 184, 184) !important;
+    font-family: 'Merriweather', serif !important;
+}
+
+.signupForm p {
+    margin-top: 10px;
+    color: white;
+}
+
+.css-1wc848c-MuiFormHelperText-root{
+    color: white !important;
+}

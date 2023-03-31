@@ -1,0 +1,36 @@
+.destinationForm {
+    display: flex;
+    flex-direction: column;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h3, h5 {
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.css-1fu7jd5-MuiButtonBase-root-MuiButton-root, .css-lll1vm-MuiButtonBase-root-MuiButton-root{
+    color: white !important;
+    background-color: rgb(4, 184, 184) !important;
+    font-family: 'Merriweather', serif !important;
+}
+
+*{
+    font-family: 'Merriweather', serif !important;
+}
+

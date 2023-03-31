@@ -1,0 +1,39 @@
+.container-home {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 30vh;
+    font-size: 20px;
+  }
+  
+  .container-home1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .css-e53awj-MuiStack-root {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  
+  .container-home p {
+    margin-bottom: 15px !important;
+    font-size: 20px !important;
+  }
+
+  .container-home h1 {
+    font-size: 40px !important;
+    margin-bottom: 100px !important;
+  }
+
+  .css-sghohy-MuiButtonBase-root-MuiButton-root, .css-sghohy-MuiButtonBase-root-MuiButton-root, .css-sghohy-MuiButtonBase-root-MuiButton-root {
+    color: white !important;
+    background-color: rgb(4, 184, 184) !important;
+    font-family: 'Merriweather', serif !important;
+
+  }
+
